@@ -27,10 +27,10 @@ a {
 .accent {
    color: var(--color-footer);
 }
-.accent-1 {
+.accent-h {
     color: var(--link-color);
 }
-.accent_1 {
+.accent-1 {
     color: var(--link-color);
 }
 .link {
