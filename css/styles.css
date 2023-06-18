@@ -86,7 +86,7 @@ a {
 }
 .btn:hover,
 .btn:focus {
-    #404BBF;
+    background-color:  #404BBF;
 }
 .feature-p {
     list-style: none; 
@@ -144,8 +144,16 @@ a {
     background-color: var( --color-footer);
     cursor: pointer;
 }
+.btn-port:hover,
+.btn-port:focus {
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+.item-img {
+    list-style: none;
+}
 .a-img {
-
+    text-decoration: none;
 }
 .img-h-p {
     font-weight: 500;
