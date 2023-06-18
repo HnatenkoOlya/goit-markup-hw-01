@@ -30,6 +30,9 @@ a {
 .accent-1 {
     color: var(--link-color);
 }
+.accent_1 {
+    color: var(--link-color);
+}
 .link {
     text-decoration: none;
 }
